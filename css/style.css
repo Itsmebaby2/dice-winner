@@ -19,12 +19,12 @@
     margin: 30px;
     font-family: 'Lobster', cursive;
     text-shadow: 5px 0 #232931;
-    font-size: 8vw;
+    font-size: 11vw;
     color: #4ECCA3;
   }
   
   p {
-    font-size: 5vw;
+    font-size: 9vw;
     color: #4ECCA3;
     font-family: 'Indie Flower', cursive;
   }
@@ -33,12 +33,12 @@
     width: 80%;
   }
   .img1{
-       height: 33vh;
-    width: 29vh;
+       height: 28vh;
+    width: 26vh;
   }
   .img2{
-       height: 33vh;
-    width: 29vh;
+       height: 28vh;
+    width: 26vh;
   }
   footer {
     margin-top: 5%;
